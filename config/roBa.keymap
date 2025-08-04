@@ -64,6 +64,7 @@
             bindings = <&msc SCRL_DOWN>, <&msc SCRL_UP>;
             tap-ms = <20>;
         };
+    };
 
     macros {
         to_layer_0: to_layer_0 {
