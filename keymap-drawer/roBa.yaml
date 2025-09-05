@@ -319,3 +319,5 @@ combos:
   k: '"'
 - p: [24, 25]
   k: '='
+- p: [33, 42]
+  k: {t: MOUSE, h: toggle}
